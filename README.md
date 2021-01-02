@@ -1,1 +1,16 @@
 # Statistics_work
+
+![Week 1  1](https://user-images.githubusercontent.com/73991456/103456155-ef456b00-4cf3-11eb-9784-d0f4d18c2753.png)
+![week 1  3](https://user-images.githubusercontent.com/73991456/103456157-efde0180-4cf3-11eb-8072-0617e88593af.png)
+![week 1  4](https://user-images.githubusercontent.com/73991456/103456158-efde0180-4cf3-11eb-8147-147e5728fee0.png)
+![week 2  1](https://user-images.githubusercontent.com/73991456/103456159-f0769800-4cf3-11eb-8400-5adb2b0f9b42.png)
+![week 2  3](https://user-images.githubusercontent.com/73991456/103456160-f0769800-4cf3-11eb-9a70-df4fe1f572fb.png)
+![week 3   3](https://user-images.githubusercontent.com/73991456/103456161-f10f2e80-4cf3-11eb-82ad-0b5d8a0a038b.png)
+![week 3  1](https://user-images.githubusercontent.com/73991456/103456162-f1a7c500-4cf3-11eb-9c9a-00da12b76629.png)
+![week 3  2](https://user-images.githubusercontent.com/73991456/103456163-f1a7c500-4cf3-11eb-9d79-3fe276f72805.png)
+![week 4  1](https://user-images.githubusercontent.com/73991456/103456165-f1a7c500-4cf3-11eb-8217-b9291f8c0849.png)
+![week 4  2](https://user-images.githubusercontent.com/73991456/103456166-f2405b80-4cf3-11eb-8455-c974b9fde45c.png)
+![week 4  3](https://user-images.githubusercontent.com/73991456/103456167-f2405b80-4cf3-11eb-9e91-5fa767ae4261.png)
+![week1  2](https://user-images.githubusercontent.com/73991456/103456168-f2d8f200-4cf3-11eb-8396-53926a92a6b4.png)
+![week2  2](https://user-images.githubusercontent.com/73991456/103456169-f2d8f200-4cf3-11eb-874c-61c2ee362e57.png)
+![week2  4](https://user-images.githubusercontent.com/73991456/103456170-f2d8f200-4cf3-11eb-9d52-60b8a577845f.png)
